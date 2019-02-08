@@ -1,2 +1,2 @@
-# devel ✨
+# Mix BoT ✨
 Epic Discord Bot
